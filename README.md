@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center" style="border: 2px solid #2C3E50; border-radius: 15px; padding: 20px; background-color: #34495E; width: 80%; max-width: 1000px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=naemhui&show_icons=true&theme=cobalt" alt="Naem's GitHub stats" width="100%">
+</div>
