@@ -32,9 +32,9 @@
 
 </div>
 
-<hr>
+<!-- <hr>
 <br>
-<br>
+<br> -->
 <!-- <div>
   Do you wanna experience my Project?
   <br>
